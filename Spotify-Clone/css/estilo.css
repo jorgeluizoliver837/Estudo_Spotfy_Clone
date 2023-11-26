@@ -1,0 +1,21 @@
+body{
+    background: url(../imagens/capa.png),
+    url(../imagens/ruido.png),
+    linear-gradient(50deg,#ff4169,#fc26f8);
+
+    background-attachment: fixed;
+}
+
+#logoheader{
+    width: 200px;
+}
+.formatnavbar{
+    padding: 15px 80px;
+    color: white;
+}
+.fontnavbar{
+    color: white!important;
+}
+.fontnavbar:hover{
+    color: aqua !important;
+}
